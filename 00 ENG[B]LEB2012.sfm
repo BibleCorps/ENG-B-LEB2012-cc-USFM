@@ -1,0 +1,70 @@
+\id FRT ENG - Lexham English Bible
+\ide UTF-8
+\rem version 20160930
+\h Title
+\mt1 The Lexham English Bible
+\pc Fourth Edition
+\periph License
+\h Rights
+\im \bd The Lexham English Bible\bd*
+\im Copyright 2010, 2012 Logos Bible Software
+\is4 License
+\im You can give away the Lexham English Bible, but you can’t sell it on its own. If the LEB comprises less than 25% of the content of a larger work, you can sell it as part of that work.
+\ip If you give away the LEB for use with a commercial product, or sell a work containing more than 1,000 verses from the LEB, you must annually report the number of units sold, distributed, and/or downloaded.
+\ip You must always attribute quotations of the LEB.
+\ip If you quote less than 100 verses of the LEB in a single work you can attribute it by simply adding (LEB) after the quotation. Longer quotations, or use of 100 or more verses in a single work, must be accompanied by the following statement:
+\ip Scripture quotations marked (LEB) are from the Lexham English Bible. Copyright 2012 Logos Bible Software. Lexham is a registered trademark of Logos Bible Software.
+\ip In electronic use, link “LEB” and “Lexham English Bible” to lexhamenglishbible.com, and “Logos Bible Software” to logos.com. If all quotations are unmarked and from the LEB, you may remove “marked (LEB) are” from the statement.
+\ip In support of non-English Bible translation, non-profit organizations may use 50% as the maximum portion the LEB may comprise of a work offered for sale. (This specifically allows the creation and commercial sale of diglot Bibles.)
+\is4 Trademark
+\ip Lexham is a registered trademark of Logos Bible Software. You may use LEB or Lexham English Bible to refer to the Lexham English Bible, but may not use the Lexham trademark as any part of the name of a larger work quoting or containing it.
+\ib
+\im Logos Bible Software
+\im 1313 Commercial St.
+\im Bellingham, WA 98225
+\im www.logos.com
+\periph Contents
+\h Contents
+\is1 Contents
+\periph Contributors
+\h Contributors
+\toc1 Contributors
+\is1 The Lexham English Bible: Fourth Edition
+\is4 Editors
+\pc W. Hall Harris III
+\pc Elliot Ritzema
+\pc Rick Brannan
+\pc Douglas Mangum
+\pc John Dunham
+\pc Jeffrey A. Reimer
+\pc Micah Wierenga
+\is4 Translators
+\pc W. Hall Harris III
+\pc Michael S. Heiser
+\pc Jeremy Penner
+\pc David M. Fouts
+\pc Eugene E. Carpenter
+\pc Gordon H. Johnston
+\pc H. Daniel Zacharias
+\pc William D. Barrick
+\pc Michael A. Grisanti
+\pc Chip McDaniel
+\pc Israel Loken
+\pc Ken M. Penner
+\pc Dorian G. Coover-Cox
+\pc Amy L. Pfeister
+\pc Logos Bible Software, 2012
+\periph Preface
+\h Preface
+\toc1 Preface
+\toc2 Preface
+\toc3 Preface
+\is1 Preface
+\im With approximately one hundred different English translations of the Bible already published, the reader may well wonder why yet another English version has been produced. Those actually engaged in the work of translating the Bible might answer that the quest for increased accuracy, the incorporation of new scholarly discoveries in the fields of semantics, lexicography, linguistics, new archaeological discoveries, and the continuing evolution of the English language all contribute to the need for producing new translations. But in the case of the Lexham English Bible (LEB), the answer to this question is much simpler; in fact, it is merely twofold.
+\ip First, the LEB achieves an unparalleled level of transparency with the original language text because the LEB had as its starting point the \bk Lexham Hebrew–English Interlinear Bible\bk* and the \bk Lexham Greek–English Interlinear New Testament\bk*. It was produced with the specific purpose of being used alongside the original language text of the Bible. Existing translations, however excellent they may be in terms of English style and idiom, are frequently so far removed from the original language texts of Scripture that straightforward comparison is difficult for the average user. Of course distance between the original language text and the English translation is not a criticism of any modern English translation. To a large extent this distance is the result of the philosophy of translation chosen for a particular English version, and it is almost always the result of an attempt to convey the meaning of the original in a clearer and more easily understandable way to the contemporary reader. However, there are many readers, particularly those who have studied some biblical Hebrew, Aramaic, or Greek, who desire a translation that facilitates straightforward and easy comparisons between the translation and the original language text. The ability to make such comparisons easily in software formats like Logos Bible Software makes the need for an English translation specifically designed for such comparison even more acute.
+\ip Second, the LEB is designed from the beginning to make extensive use of the most up-to-date lexical reference works available. For the Old Testament this is primarily \bk The Hebrew and Aramaic Lexicon of the Old Testament\bk* (HALOT), and for New Testament this is primarily the third edition of Walter Bauer’s \bk A Greek–English Lexicon of the New Testament and Other Early Christian Literature\bk* (BDAG). Users can be assured that the LEB as a translation is based on the best scholarly research available. The Hebrew text on which the LEB Old Testament is based is that of \qs Biblia Hebraica Stuttgartensia\qs*. The Greek text on which the LEB New Testament is based is that of \bk The Greek New Testament: SBL Edition\bk* (SBLGNT), a new edition produced by Michael W. Holmes in conjunction with the Society of Biblical Literature and Logos Bible Software. In its evaluation of textual variation, the SBLGNT uses modern text-critical methodology along with guidance from the most recently available articles, monographs, and technical commentaries to establish the text of the Greek New Testament.
+\ip Naturally, when these two factors are taken into consideration, it should not be surprising that the character of the LEB as a translation is fairly literal. This is a necessary by-product of the desire to have the English translation correspond transparently to the original language text. Nevertheless, a serious attempt has been made within these constraints to produce a clear and readable English translation instead of a woodenly literal one.
+\ip There are three areas in particular that need to be addressed to make a translation like the LEB more accessible to readers today, while at the same time maintaining easy comparison with the original language text. First, differences in word order have to be addressed. In this regard, the LEB follows standard English word order, not the word order of biblical Hebrew, Aramaic, or Koiné Greek. Anyone who needs to see the word order of the original languages can readily consult the \bk Lexham Hebrew–English Interlinear Bible\bk* or the \bk Lexham Greek–English Interlinear New Testament\bk*, which contain a sequence line which gives this information. Second, some expressions in biblical languages are idiomatic, so that a literal translation would be meaningless or would miscommunicate the true meaning. The LEB uses ⸤lower corner⸥ brackets to indicate such expressions, with a literal rendering given in a note. Third, words which have no equivalent in the original language text must sometimes be supplied in the English translation. Because the LEB is designed to be used alongside the original language texts of Scripture, these supplied words are indicated with \tl italics\tl*. In some cases the need for such supplied words is obvious, but in other cases where it is less clear a note has been included.
+\ip Finally, the reader should remember that any Bible translation, to be useful to the person using it, must actually be read. We encourage every user of the LEB, whether reading it alongside the original languages text or not, to remember that once we understand the meaning of a biblical text we are responsible to apply it first in our own lives, and then to share it with those around us.
+\ip \sig The Editors\sig*
+\iq For the word of God \it is\it* living and active and sharper than any double-edged sword, and piercing as far as the division of soul and spirit, both joints and marrow, and able to judge the reflections and thoughts of the heart. (\rq Heb 4:12\rq* LEB)

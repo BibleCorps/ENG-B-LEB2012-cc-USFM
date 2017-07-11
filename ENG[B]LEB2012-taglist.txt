@@ -1,0 +1,26 @@
+\rem <?xml version=>beginning
+\rem <a href=></a>
+\rem <b></b>	|	 bd ... bd*
+\rem <block></block>	|	 wrapped around letters (p-> pi)
+\rem <book id=></book>	|	 id
+\rem <chapter id=></chapter>	|	 c
+\rem <cite title=></cite>	|	 xt ... xt*
+\rem <i></i>	|	 it ... it*
+\rem <idiom-end /><idiom-start />
+\rem <leb></leb>	|	 id
+\rem <li1></li1> both poetry and lists
+\rem <li2></li2> both poetry and lists
+\rem <li3></li3> both poetry and lists
+\rem <license></license>	|	 periph
+\rem <note tag=></note> ef .. ef*
+\rem <note></note>	|	 f ... f*
+\rem <p />	|	 b
+\rem <p></p>	|	 p 
+\rem <pericope></pericope>	|	 s 
+\rem <preface></preface>	|	periph 
+\rem <sc></sc>
+\rem <supplied></supplied>	|	\add 
+\rem <title></title>	|	wrapped around title (p-> mt)
+\rem <trademark></trademark>	|	 rem
+\rem <ul></ul>
+\rem <verse-number id=></verse-number>	|	 v
